@@ -163,5 +163,6 @@
 
 ## 👩‍💻 Author
 
->>> Name : Amanda Rezquita Jamila 
->>> NIM  : F1D02510103
+- **Name**: Amanda Rezquita Jamila
+- **NIM**: F1D02510103
+- **Course**: Object-Oriented Programming (PBO)
